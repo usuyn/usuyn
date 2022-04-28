@@ -2,8 +2,8 @@
 
 <h3>:book: About Me</h3>
 
-:house: Living in Seoul, Republic of Korea.  
-:pencil2: Studying Software Engineering at Konkuk Univ. ( 2019.03 - )
+- Living in Seoul, Republic of Korea. 🏠
+- Studying Software Engineering at Konkuk Univ. ✏️ ( 2019.03 - )
 
 <h3>⌨️ Things I code with</h3>
 <p>
@@ -25,7 +25,10 @@
 
 - Diet management mobile application with food recognition using MobileNet - [Kcalendar](https://github.com/usuyn/kcalendar)
 
-<h3>Where to find me</h3>
+<h3>☀️ Where to find me</h3>
 <a href="https://velog.io/@redrawn">
   <img align="left" alt="Usuyn's Velog" width="22px" src="https://velog.velcdn.com/images/velog/profile/9aa07f66-5fcd-41f4-84f2-91d73afcec28/green%20favicon.png" />
+</a>
+<a href="mailto:usuyn000@gmail.com">
+  <img align="left" alt="Usuyn's mail" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" />
 </a>
